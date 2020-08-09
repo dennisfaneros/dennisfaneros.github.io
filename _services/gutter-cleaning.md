@@ -11,4 +11,3 @@ We handle:
 - stained glass
 - egress windows
 - your kind of windows
-- Windows windows &mdash; just kidding
